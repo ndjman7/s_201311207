@@ -1,3 +1,4 @@
+# coding: utf-8
 import re
 import requests
 response = requests.get('http://python.org/')
